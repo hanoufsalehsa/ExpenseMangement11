@@ -13,19 +13,19 @@ public class Expense {
     public int UserID { get; set; }
 
     [ForeignKey("UserID")]
-    public User User { get; set; }
+    public required User User { get; set; }
 
     //Expense category
     public int CategoryID { get; set; }
 
     [ForeignKey("CategoryID")]
-    public ExpenseCategory Category { get; set; }
+    public required ExpenseCategory Category { get; set; }
 
 
 
     public DateTime Date { get; set; } 
     public decimal Amount { get; set; }
-    public string Description { get; set; }
+    public required string Description { get; set; }
     public byte[] ReceiptImage { get; set; }
 
 }

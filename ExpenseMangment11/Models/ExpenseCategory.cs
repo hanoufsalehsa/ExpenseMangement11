@@ -1,7 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-
+using ExpenseMangement11.Controllers;
+using ExpenseMangement11.Services;
 namespace ExpenseMangement11.Models{
 public class ExpenseCategory {
 
@@ -11,12 +12,12 @@ public class ExpenseCategory {
 
     //[Column(TypeName = VARCHAR(255) NOT NULL)]
     [Required]
-    public string CategoryName { get; set; }
+    public required string CategoryName { get; set; }
 
-    public string Description { get; set; }
+    public required string Description { get; set; }
     
     // Navigation property representing the relationship
-    public ICollection<Expense> Expenses { get; set; }
+    public required ICollection<Expense> Expenses { get; set; }
 
 }
 }

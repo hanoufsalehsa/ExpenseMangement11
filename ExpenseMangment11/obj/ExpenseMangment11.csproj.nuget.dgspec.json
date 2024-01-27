@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\PC\\Desktop\\ExpenseMangement11\\ExpenseMangment11\\ExpenseMangment11.csproj": {}
+    "C:\\Users\\PC\\Desktop\\ExpenseMangement11\\ExpenseMangment11\\ExpenseMangment11.csproj": {}
   },
   "projects": {
-    "c:\\Users\\PC\\Desktop\\ExpenseMangement11\\ExpenseMangment11\\ExpenseMangment11.csproj": {
+    "C:\\Users\\PC\\Desktop\\ExpenseMangement11\\ExpenseMangment11\\ExpenseMangment11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\PC\\Desktop\\ExpenseMangement11\\ExpenseMangment11\\ExpenseMangment11.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\ExpenseMangement11\\ExpenseMangment11\\ExpenseMangment11.csproj",
         "projectName": "ExpenseMangment11",
-        "projectPath": "c:\\Users\\PC\\Desktop\\ExpenseMangement11\\ExpenseMangment11\\ExpenseMangment11.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\ExpenseMangement11\\ExpenseMangment11\\ExpenseMangment11.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\PC\\Desktop\\ExpenseMangement11\\ExpenseMangment11\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\ExpenseMangement11\\ExpenseMangment11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

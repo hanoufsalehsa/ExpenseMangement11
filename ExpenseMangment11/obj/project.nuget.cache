@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RV7HsOxQcKUnWrBHaNX+ymCyIjcrlq+kZSmVjHrHpAE/M9dRZveUPkHeMWazJBeq4Cm8jc9/GFCcIwnKey4JVA==",
+  "dgSpecHash": "8SlJTRPBo7jhQlkBFGSXPlQAsE4zB8nSjAEXwjjyzGWCLJdIxSWtJ6fgkq7GNcN+9jmnghc8odyz5Qqp5u49fg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\PC\\Desktop\\ExpenseMangement11\\ExpenseMangment11\\ExpenseMangment11.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\ExpenseMangement11\\ExpenseMangment11\\ExpenseMangment11.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.1\\microsoft.aspnetcore.authentication.jwtbearer.8.0.1.nupkg.sha512",

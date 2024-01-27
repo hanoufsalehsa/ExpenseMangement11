@@ -132,3 +132,4 @@ C:\Users\PC\Desktop\ExpenseMangement11\ExpenseMangment11\bin\Debug\net8.0\Micros
 C:\Users\PC\Desktop\ExpenseMangement11\ExpenseMangment11\obj\Debug\net8.0\ExpenseMangment11.csproj.AssemblyReference.cache
 C:\Users\PC\Desktop\ExpenseMangement11\ExpenseMangment11\obj\Debug\net8.0\ExpenseMangment11.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\PC\Desktop\ExpenseMangement11\ExpenseMangment11\obj\Debug\net8.0\ExpenseMangment11.csproj.CopyComplete
+C:\Users\PC\Desktop\ExpenseMangement11\ExpenseMangment11\obj\Debug\net8.0\ExpenseMangment11.sourcelink.json

@@ -36,9 +36,32 @@ public class ApplicationDbContext : DbContext
 
 
      }
-         
-    
-}
+
+        internal void AddExpenseCategory(ExpenseCategory category)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal void DeleteExpenseCategory(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal object GetExpenseCategories()
+        {
+            throw new NotImplementedException();
+        }
+
+        internal object GetExpenseCategory(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal void UpdateExpenseCategory(ExpenseCategory category)
+        {
+            throw new NotImplementedException();
+        }
+    }
 }
 
     
